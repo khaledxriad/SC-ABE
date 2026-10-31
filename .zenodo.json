@@ -1,0 +1,11 @@
+{
+  "title": "SC-ABE: reference implementation, experiments",
+  "upload_type": "software",
+  "description": "Code, experiment scripts, tests and results for 'SC-ABE: Compact lattice-based attribute-based encryption for cohort access control in federated cyber-physical systems'. The identity-based encryption component is a functional/timing stand-in and is not adaptively secure.",
+  "creators": [
+    {"name": "Riad, Khaled", "affiliation": "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, Saudi Arabia"}
+  ],
+  "license": "MIT",
+  "keywords": ["attribute-based encryption", "lattice cryptography", "learning with errors", "post-quantum cryptography", "adaptive security"],
+  "access_right": "open"
+}
