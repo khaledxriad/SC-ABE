@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "SC-ABE: reference implementation, experiments"
+type: software
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    email: kriad@kfu.edu.sa
+    affiliation: "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, 31982, Saudi Arabia"
+repository-code: "https://github.com/<set-later>/scabe"
+preferred-citation:
+  type: article
+  title: "SC-ABE: Compact lattice-based attribute-based encryption for cohort access control in federated cyber-physical systems"
+  authors:
+    - family-names: Riad
+      given-names: Khaled
+  journal: "Scientific Reports"
+  year: 2026
+  notes: "Submitted; update with the DOI after publication."

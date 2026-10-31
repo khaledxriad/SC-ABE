@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scabe"
+version = "1.0.0"
+description = "SC-ABE reference prototype (functional/timing stand-in; not for protecting real data)"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26"]
+license = {text = "MIT"}
+authors = [{name = "Khaled Riad", email = "kriad@kfu.edu.sa"}]
+
+[tool.setuptools.packages.find]
+where = ["src"]
